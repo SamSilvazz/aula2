@@ -1,0 +1,35 @@
+<head>
+
+<link  rel="stylesheet"  href="STYLES.css" />
+
+</head>
+
+<body> 
+    
+    
+<header>ALURAMUSICVIDEO</header>
+
+<H1>Michael Jackson - Thriller (Official 4K Video)</H1> 
+
+<P> #Musica </P>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sOnqjkJTMaA?si=oKIvebOa7wtz2uDv" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
+
+</body>
+
+
+
+
+
+              ------------
+
+body{
+   color:gray;
+   background: black;
+}
+
+              
